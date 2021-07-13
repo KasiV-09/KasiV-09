@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KasiV-09
+- 👋 Hi, I’m Kasi viswanath
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning problem solving using python
 
