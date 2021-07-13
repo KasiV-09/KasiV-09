@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kasi viswanath
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning problem solving using python
+- Intrested in problem-solving using python
 
 
 <!---
