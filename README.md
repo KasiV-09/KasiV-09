@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kasi viswanath
-- Intrested in problem-solving using python
+- 👋 Hi, I’m Kasi Viswanath B
+- Transportation Problems using SCx library
 
 
 <!---
